@@ -1,6 +1,6 @@
-# jogo-da-memoria-
+# jogo-da-memoria
 jogo da memoria feito com react
-# instalção
+# instalação
 npm install
 # modo de rodar o projeto
   npm run start
